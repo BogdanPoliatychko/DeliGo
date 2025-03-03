@@ -1,0 +1,9 @@
+C:\Users\User\DeliGo\DeliGo\bin\Debug\DeliGo.exe.config
+C:\Users\User\DeliGo\DeliGo\bin\Debug\DeliGo.exe
+C:\Users\User\DeliGo\DeliGo\bin\Debug\DeliGo.pdb
+C:\Users\User\DeliGo\DeliGo\obj\Debug\DeliGo.csproj.AssemblyReference.cache
+C:\Users\User\DeliGo\DeliGo\obj\Debug\DeliGo.Properties.Resources.resources
+C:\Users\User\DeliGo\DeliGo\obj\Debug\DeliGo.csproj.GenerateResource.cache
+C:\Users\User\DeliGo\DeliGo\obj\Debug\DeliGo.csproj.CoreCompileInputs.cache
+C:\Users\User\DeliGo\DeliGo\obj\Debug\DeliGo.exe
+C:\Users\User\DeliGo\DeliGo\obj\Debug\DeliGo.pdb
